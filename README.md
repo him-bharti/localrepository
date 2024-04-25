@@ -1,1 +1,1 @@
-BASIC code for merge sorting algorithm
+#BASIC algos' and stuff
